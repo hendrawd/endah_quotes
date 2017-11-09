@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes" translatable="false">
+        <item>ih parah sih mas</item>
+        <item>parah sih mas</item>
+        <item>mending aku diem aja deh</item>
+        <item>engga hek hek</item>
+        <item>haduhhh haduhhh</item>
+        <item>ada ada aja mas</item>
+        <item>yaaa jangannn</item>
+        <item>ih kata siapa?</item>
+        <item>aku kudu ngomong apa jal</item>
+        <item>mas jangannn</item>
+        <item>ntar aku jadi terkenal</item>
+        <item>malu tauuuu!</item>
+        <item>malu tau masss</item>
+        <item>jangan isenggg</item>
+        <item>ya ujannn</item>
+        <item>hemmm</item>
+        <item>ih jangan</item>
+        <item>ngga tau ngga jelas</item>
+        <item>aku harusnya ngga ngomong</item>
+    </string-array>
+</resources>
