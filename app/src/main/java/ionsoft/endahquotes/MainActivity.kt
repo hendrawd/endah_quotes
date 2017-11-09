@@ -52,14 +52,15 @@ class MainActivityUi : AnkoComponent<MainActivity> {
     override fun createView(ui: AnkoContext<MainActivity>): View = with(ui) {
         scrollView {
             verticalLayout {
-                padding = dip(8)
+                val dip8 = dip(8)
+                padding = dip8
 
                 val imageView = imageView()
                 imageView.setImageResource(R.drawable.ic_foto_endah)
 
                 val randomQuoteTextView = textView("Random quote will appear here")
                 val layoutParams = randomQuoteTextView.layoutParams as LinearLayout.LayoutParams
-                layoutParams.setMargins(8, 8, 8, 8)
+                layoutParams.setMargins(dip8, dip8, dip8, dip8)
                 randomQuoteTextView.gravity = Gravity.CENTER
 
                 button("Generate Random Quote!") {
